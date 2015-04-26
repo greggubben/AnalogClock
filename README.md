@@ -4,24 +4,27 @@ Arduino Analog Clock
 This program will use analog meters, like Ampere or Volt meters, to display hours, minutes, and seconds.
 
 First shared on Know How and Coding 101 on the TWIT.tv network.
+
 Check out the following episodes for the coding:
-    http://twit.tv/show/coding-101/54
-    http://twit.tv/show/coding-101/55
-    http://twit.tv/show/coding-101/56
-    http://twit.tv/show/coding-101/57
+- http://twit.tv/show/coding-101/54
+- http://twit.tv/show/coding-101/55
+- http://twit.tv/show/coding-101/56
+- http://twit.tv/show/coding-101/57
 Check out the following episodes for the hardware:
-    http://twit.tv/show/know-how/132
-    http://twit.tv/show/know-how/133
-    http://twit.tv/show/know-how/134
-    http://twit.tv/show/know-how/135
+- http://twit.tv/show/know-how/132
+- http://twit.tv/show/know-how/133
+- http://twit.tv/show/know-how/134
+- http://twit.tv/show/know-how/135
 
 Thanks to Fr. Robert Ballecer, SJ and Mark Smith.
 
 Additional Libraries that need to be downloaded and installed in your libraries directory:
-    Time
-        http://www.pjrc.com/teensy/td_libs_Time.html
-    DS1307TYC
-        http://www.pjrc.com/teensy/td_libs_DS1307RTC.html
+
+Time
+- http://www.pjrc.com/teensy/td_libs_Time.html
+
+DS1307TYC
+- http://www.pjrc.com/teensy/td_libs_DS1307RTC.html
 
 Changes from the original:
   - I used an Arduino Nano from Sainsmart for the processor.
