@@ -10,6 +10,7 @@ Check out the following episodes for the coding:
 - http://twit.tv/show/coding-101/55
 - http://twit.tv/show/coding-101/56
 - http://twit.tv/show/coding-101/57
+
 Check out the following episodes for the hardware:
 - http://twit.tv/show/know-how/132
 - http://twit.tv/show/know-how/133
