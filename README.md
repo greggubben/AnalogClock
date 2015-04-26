@@ -1,7 +1,10 @@
+# Arduino Analog Clock
 
-Arduino Analog Clock
+See the full writeup how this Arduino Analog Clock was assembled at: http://blog.greggubben.com/2015/04/arduino-analog-clock.html
 
 This program will use analog meters, like Ampere or Volt meters, to display hours, minutes, and seconds.
+
+### Credits
 
 First shared on Know How and Coding 101 on the TWIT.tv network.
 
@@ -19,6 +22,8 @@ Check out the following episodes for the hardware:
 
 Thanks to Fr. Robert Ballecer, SJ and Mark Smith.
 
+### Libraries
+
 Additional Libraries that need to be downloaded and installed in your libraries directory:
 
 Time
@@ -26,6 +31,8 @@ Time
 
 DS1307TYC
 - http://www.pjrc.com/teensy/td_libs_DS1307RTC.html
+
+### Modifications
 
 Changes from the original:
   - I used an Arduino Nano from Sainsmart for the processor.
